@@ -1,3 +1,3 @@
 # League-Of-Legends
 League
-###LOL自动升级脚步
+###LOL自动升级脚本
